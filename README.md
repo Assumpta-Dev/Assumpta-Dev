@@ -1,6 +1,6 @@
 # Hi there, I'm Assumpta 👋
 
-![Coding Cartoon](https://c.tenor.com/2sZ77x8voq4AAAAC/programmer-coding.gif)
+![Dev Cartoon](https://c.tenor.com/7p1yC9j3LxgAAAAC/coding.gif)
 
 I'm a **Computer Science student** passionate about **tech solutions for sustainable development** and **education innovation**. I love transforming ideas into code, building software, and creating tools that help others learn and grow.
 
