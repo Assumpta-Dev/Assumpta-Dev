@@ -1,6 +1,6 @@
 # Hi there, I'm Assumpta 👋
 
-![Code Like a Girl](https://media.giphy.com)
+![Coding GIF](https://media.giphy.com/media/[your_gif_link](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHdjcHZjN2JkcW9wd3FhMGdqNGIwNTN4dzBqYTI1NHd5ajEwbjYwayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif)/giphy.gif)
 
 
 
