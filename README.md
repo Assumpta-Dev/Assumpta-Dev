@@ -1,6 +1,6 @@
 # Hi there, I'm Assumpta 👋
 
-![Coding GIF](https://media.giphy.com/media/[your_gif_link](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHdjcHZjN2JkcW9wd3FhMGdqNGIwNTN4dzBqYTI1NHd5ajEwbjYwayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif)/giphy.gif)
+![Coding GIF](https://media.giphy.com/media/[your_gif_link](https://media.giphy.com/media/<iframe src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="480" height="278" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">via GIPHY</a></p>/giphy.gif)/giphy.gif)
 
 
 
