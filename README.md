@@ -1,6 +1,6 @@
 # Hi there, I'm Assumpta 👋
 
-![Aesthetic Female Coder](https://media.giphy.com)
+![Code Like a Girl](https://media.giphy.com)
 
 
 
