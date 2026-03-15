@@ -1,6 +1,6 @@
 # Hi there, I'm Assumpta 👋
 
-![Woman Developer](https://cdn.dribbble.com)
+![Aesthetic Female Coder](https://media.giphy.com)
 
 
 
