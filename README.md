@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi there, I'm Assumpta 👋
 
-<!--
-**Assumpta-Dev/Assumpta-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Typing GIF](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 
-Here are some ideas to get you started:
+I'm a **Computer Science student** passionate about **tech solutions for sustainable development** and **education innovation**. I love transforming ideas into code, building software, and creating tools that help others learn and grow.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧰 Skills & Tools
+
+- **Languages:** Python, Java, JavaScript, HTML, CSS  
+- **Frameworks & Tools:** React, Bootstrap, Node.js, Git, GitHub  
+- **Tech Interests:** AI, Big Data, Web Development, EdTech  
+- **Other:** UI/UX Design, Problem Solving, Project Management  
+
+---
+
+## 💼 Projects & Experience
+
+- **Melanin Beauty Finds (MBF) App:** Social chatting platform with profiles, messaging, and subscriptions.  
+- **Tutor Software:** AI-based learning platform to help students master mathematics, programming, and digital skills.  
+- **UNLEASH Rwanda 2023:** Participated as a youth leader to innovate solutions for Sustainable Development Goals.  
+- **Church Website Admin:** Managing web content and optimizing user experience for the Reformed Baptist Convention Rwanda.  
+---
+
+## 🌱 Learning & Goals
+
+I’m focused on:  
+
+- Developing impactful **tech solutions** for education and sustainability.  
+- Growing as a **full-stack developer** and AI enthusiast.  
+- Sharing knowledge through **content creation**, tutorials, and livestreams.  
+
+---
+
+## 📫 Connect With Me
+
+- [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/assumpta-uwamariya-atwork/))  
+- [Portfolio/Website](https://yourwebsite.com)  
+
+---
+
+*“Coding is not just writing lines of code, it’s creating tools that make life better.”* 🚀
