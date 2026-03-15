@@ -1,6 +1,6 @@
 # Hi there, I'm Assumpta 👋
 
-![Typing GIF](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+![Typing](https://c.tenor.com/I6kN-6X7nhAAAAAC/typing.gif)
 
 I'm a **Computer Science student** passionate about **tech solutions for sustainable development** and **education innovation**. I love transforming ideas into code, building software, and creating tools that help others learn and grow.
 
@@ -35,7 +35,7 @@ I’m focused on:
 
 ## 📫 Connect With Me
 
-- [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/assumpta-uwamariya-atwork/))  
+- [LinkedIn](https://www.linkedin.com/in/assumpta-uwamariya-atwork/)  
 - [Portfolio/Website](https://yourwebsite.com)  
 
 ---
