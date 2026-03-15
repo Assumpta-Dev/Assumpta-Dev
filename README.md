@@ -1,7 +1,9 @@
 # Hi there, I'm Assumpta 👋
 
 
-![Coding Woman GIF](https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif)
+<div align="center">
+  <img src="https://media.giphy.com" width="300" alt="Coding Woman GIF">
+</div>
 
 
 
