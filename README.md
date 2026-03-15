@@ -1,8 +1,7 @@
 # Hi there, I'm Assumpta 👋
 
-<iframe src="https://giphy.com/embed/LMcB8XospGZO8UQq87" width="480" height="278" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50" alt="Coding Woman GIF"/>
+<img ssrc="https://giphy.com/embed/LMcB8XospGZO8UQq87" width="480" height="278" alt="Coding Woman GIF"/>
 
 
 
