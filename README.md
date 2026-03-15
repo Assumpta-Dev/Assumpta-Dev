@@ -1,6 +1,7 @@
 # Hi there, I'm Assumpta 👋
 
-![Female Coder](https://media.giphy.com)
+![Woman Developer](https://cdn.dribbble.com)
+
 
 
 I'm a **Computer Science student** passionate about **tech solutions for sustainable development** and **education innovation**. I love transforming ideas into code, building software, and creating tools that help others learn and grow.
