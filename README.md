@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="https://media.giphy.com" width="300" alt="Coding Woman GIF">
+  <img src="https://media.giphy.com" width="300" alt="Woman Developer">
 </div>
 
 
