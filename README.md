@@ -1,6 +1,6 @@
 # Hi 👋 I'm Assumpta
 
-<img align="center" alt="Girl Coding" width="320" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"/>
+<img align="item-center" alt="Girl Coding" width="320" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"/>
 
 ### 💻 Computer Science Student | Aspiring Software Engineer
 
