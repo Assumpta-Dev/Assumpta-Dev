@@ -1,9 +1,11 @@
 # Hi 👋 I'm Assumpta
 ---
 
-<img align="center" alt="Girl Coding" width="320" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"/>
----
+<p align="center">
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="320" alt="Girl Coding"/>
+</p>
 
+---
 ### 💻 Computer Science Student | Aspiring Software Engineer
 
 I'm a **Computer Science student at the University of the People**, passionate about building technology that solves real problems.
