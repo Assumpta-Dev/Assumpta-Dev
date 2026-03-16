@@ -1,43 +1,113 @@
-# Hi there, I'm Assumpta 👋
 
+# Hi 👋 I'm Assumpta
 
+<img align="right" alt="Coding Girl" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-I'm a **Computer Science student** passionate about **tech solutions for sustainable development** and **education innovation**. I love transforming ideas into code, building software, and creating tools that help others learn and grow.
+### 💻 Computer Science Student | Aspiring Software Engineer
+
+I'm a **Computer Science student at the University of the People**, passionate about building technology that solves real problems.
+
+My experience focuses mostly on **front-end development**, designing user-friendly interfaces and responsive applications. Recently, I have been expanding into **backend development**, working with APIs, databases, authentication systems, and full-stack architectures.
+
+I enjoy learning new technologies quickly and experimenting with them in projects. For me, **teamwork and collaboration are key ways to grow as a developer and build better solutions.**
+
+Currently, I am seeking **research-driven and hands-on opportunities** that will challenge me and help me grow into a **top-tier software engineer.**
 
 ---
 
-## 🧰 Skills & Tools
+# 📍 Contact Me
 
-- **Languages:** Python, Java, JavaScript, HTML, CSS  
-- **Frameworks & Tools:** React, Bootstrap, Node.js, Git, GitHub  
+📍 Kigali, Rwanda
+📞 +250780193787
+
+📧 Email:
+[uwamariyaassumpta24@gmail.com](mailto:uwamariyaassumpta24@gmail.com)
+
+🔗 LinkedIn
+[https://www.linkedin.com/in/assumpta-uwamariya-atwork/](https://www.linkedin.com/in/assumpta-uwamariya-atwork/)
+
+---
+
+
+# 🛠 Tech Stack
+
+### Programming Languages
+
+* Java
+* JavaScript
+* Python
+* PHP
+* C / C++
+* TypeScript
+
+### Web Development
+
+* HTML
+* CSS
+* React
+* Tailwind CSS
+* Bootstrap
+
+### Backend & Databases
+
+* Node.js
+* Firebase
+* MongoDB
+
+### Tools
+
+* Git
+* GitHub
+* Visual Studio Code
+* Eclipse
+* Swagger
+
+### Other Skills
+
+* API Integration
+* CRUD Operations
+* Authentication Systems
+* Responsive Design
+* Basic Linux Commands
+* UI/UX Design
+* Problem Solving
+*  Project Management
+
 - **Tech Interests:** AI, Big Data, Web Development, EdTech  
-- **Other:** UI/UX Design, Problem Solving, Project Management  
+ 
+
+# 📚 Education
+
+🎓 **Bachelor’s Degree in Computer Science**
+University of the People
+Expected Graduation: **August 2026**
+GPA: **3.58**
+
+🎓 **Advanced Level (Mathematics – Computer Science – Economics)**
+Groupe Scolaire APAPEC Murambi, Rwanda
+CGPA: **3.7**
 
 ---
 
-## 💼 Projects & Experience
+# 💡 Selected Academic Projects
 
-- **Melanin Beauty Finds (MBF) App:** Social chatting platform with profiles, messaging, and subscriptions.  
-- **Tutor Software:** AI-based learning platform to help students master mathematics, programming, and digital skills.  
-- **UNLEASH Rwanda 2023:** Participated as a youth leader to innovate solutions for Sustainable Development Goals.  
-- **Church Website Admin:** Managing web content and optimizing user experience for the Reformed Baptist Convention Rwanda.  
----
+✔ Quiz Game Application (Java)
+✔ Library Management System
+✔ Student Record Management System
+✔ Car Rental Application
+✔ Multithreaded Clock Application
+✔ Online Chat Application
+✔ Weather GUI Application
 
-## 🌱 Learning & Goals
-
-I’m focused on:  
-
-- Developing impactful **tech solutions** for education and sustainability.  
-- Growing as a **full-stack developer** and AI enthusiast.  
-- Sharing knowledge through **content creation**, tutorials, and livestreams.  
+These projects helped me practice **object-oriented programming, concurrency, networking, and GUI design**.
 
 ---
 
-## 📫 Connect With Me
+# ⭐ Goals
 
-- [LinkedIn](https://www.linkedin.com/in/assumpta-uwamariya-atwork/)  
-- [Portfolio/Website](https://yourwebsite.com)  
+I aim to become a **high-impact software engineer and technology innovator**, building solutions that help people and businesses solve everyday challenges.
 
 ---
 
-*“Coding is not just writing lines of code, it’s creating tools that make life better.”* 🚀
+⭐ **Thanks for visiting my GitHub profile!**
+
