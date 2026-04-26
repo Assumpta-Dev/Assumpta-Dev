@@ -6,15 +6,15 @@
 </p>
 
 ---
-### 💻 Computer Science Student | Aspiring Software Engineer
+### 💻 Computer Science Student | Aspiring Software Engineer| AI & Data Science
 
-I'm a **Computer Science student at the University of the People**, passionate about building technology that solves real problems.
+I am a **Computer Science student at the University of the People** with hands-on experience building full-stack systems, APIs, and data-driven applications. My work is centered on backend engineering and system design, where I focus on creating structured, scalable, and reliable solutions.
 
-My experience focuses mostly on **front-end development**, designing user-friendly interfaces and responsive applications. Recently, I have been expanding into **backend development**, working with APIs, databases, authentication systems, and full-stack architectures.
+I have developed projects across health, finance, and business, including systems for maternal health tracking, financial management, and digital business platforms. These experiences have strengthened my ability to design APIs, manage databases, and build applications that solve real-world problems.
 
-I enjoy learning new technologies quickly and experimenting with them in projects. For me, **teamwork and collaboration are important because they help me learn new ideas and grow as a developer.**
+Alongside software development, I am growing my skills in Artificial Intelligence and data analysis. I approach my work with research, testing, and continuous improvement, aiming to build systems that are not only functional but meaningful in their impact.
 
-Currently, I am looking for **hands-on opportunities and research-driven experiences** that will challenge me and help me grow into a **top-tier software engineer.**
+I am currently seeking opportunities that combine practical development with research, where I can deepen my skills in intelligent systems and contribute to building scalable, data-driven solutions.
 
 ---
 
