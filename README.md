@@ -45,10 +45,10 @@ Tech Interests: AI, Big Data, Web Development, EdTech
 # 📚 Education
 
 Bachelor’s Degree in Computer Science — **University of the People**  
-Expected Graduation: August 2026 | GPA: 3.58
+June 2026 | GPA: 3.55
 
 Advanced Level (Mathematics – Computer Science – Economics) — **Groupe Scolaire APAPEC Murambi**  
-CGPA: 3.7
+Feb 2022 | GPA: 3.7
 
 ---
 
