@@ -6,15 +6,17 @@
 </p>
 
 ---
-### 💻 Computer Science Student | Aspiring Software Engineer| AI & Data Science
+### 💻 Software Engineer | Full-Stack Developer| Flutter Mobile Developer |AI & Data Science
 
-I am a **Computer Science student at the University of the People** with hands-on experience building full-stack systems, APIs, and data-driven applications. My work is centered on backend engineering and system design, where I focus on creating structured, scalable, and reliable solutions.
+I am a Software Engineer with experience building full-stack web and mobile applications, APIs, and data-driven systems. My expertise spans backend development, system design, database architecture, and modern web technologies, with a focus on creating scalable, reliable, and user-centered solutions.
 
-I have developed projects across health, finance, and business, including systems for maternal health tracking, financial management, and digital business platforms. These experiences have strengthened my ability to design APIs, manage databases, and build applications that solve real-world problems.
+I have developed projects across healthcare, finance, education, and business, including maternal health management systems, financial tracking applications, inventory platforms, digital business solutions, and mobile applications. These experiences have strengthened my ability to design robust APIs, manage complex data flows, and deliver software that solves real-world challenges.
 
-Alongside software development, I am growing my skills in Artificial Intelligence and data analysis. I approach my work with research, testing, and continuous improvement, aiming to build systems that are not only functional but meaningful in their impact.
+My technical stack includes JavaScript, TypeScript, React, Node.js, Flutter, PostgreSQL, MongoDB, and modern development tools. I am also expanding my expertise in Artificial Intelligence, data analysis, and intelligent systems.
 
-I am currently seeking opportunities that combine practical development with research, where I can deepen my skills in intelligent systems and contribute to building scalable, data-driven solutions.
+I enjoy collaborating with diverse teams, learning new technologies, and transforming ideas into impactful products. My approach combines problem-solving, continuous learning, and attention to quality to build software that is both effective and scalable.
+
+I am actively seeking opportunities to contribute to innovative teams, build meaningful technology, and continue growing as a software engineer.
 
 ---
 
