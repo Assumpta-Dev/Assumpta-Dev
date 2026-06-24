@@ -30,7 +30,7 @@ LinkedIn: https://www.linkedin.com/in/assumpta-uwamariya-atwork/
 
 # 🛠 Tech Stack
 
-Programming Languages: Java, JavaScript, Python, PHP, C, C++, TypeScript  
+Programming Languages: Java, JavaScript, Python, PHP, C, C++, TypeScript, Kotlin, Dart 
 
 Web Development: HTML, CSS, React, Tailwind CSS, Bootstrap  
 
