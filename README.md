@@ -6,7 +6,7 @@
 </p>
 
 ---
-### 💻 Software Engineer | Full-Stack Developer| Flutter Mobile Developer |AI & Data Science
+### 💻 Software Engineer| Full-Stack & Flutter Mobile Developer| Researcher| AI & ML
 
 I am a Software Engineer with experience building full-stack web and mobile applications, APIs, and data-driven systems. My expertise spans backend development, system design, database architecture, and modern web technologies, with a focus on creating scalable, reliable, and user-centered solutions.
 
